@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-family: 'EB Garamond', serif;
+    color: white;
+}
+
+.font{
+    font-family: 'Great Vibes', cursive;
+    font-size: 26px;
+}
+
+.titulo{
+    text-align: center;
+    color: white;
+    padding: 15px 10px;
+}
+
+.titulo h1{
+    font-size: 30px;
+}
+
+.spacing{
+    margin: 30px;
+}
+
+
